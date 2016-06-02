@@ -1,0 +1,39 @@
+o
+open
+vim
+wq
+rename Redshift AI Files
+open_with 
+open_with cmus
+help
+mkdir INGA
+mkdir FlyByNo
+mkdir "All Dogs"
+rename All Dogs
+rename Art Angels
+mkdir Grimes
+openwith vim
+mkdir HOME
+search screen
+unzip
+open_with unzip -d "Over Easy"
+mkdir Over Easy
+open_with unzip
+mkdir Dog Physics
+mkdir Slaughterhouse-Five
+mkdir Ings
+mkdir Diet Cig
+s
+mkdir test
+mkdir archlinx_backup
+rename archlinux_backup
+mkdir archlinux_backup
+mkdir src
+
+delete
+cd .
+pwd
+cd
+cd /home/cole/Desktop
+cd Pictures/
+rename pac1.bpac
