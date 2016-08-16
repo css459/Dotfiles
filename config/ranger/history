@@ -1,24 +1,14 @@
-mkdir colorschemes
-cd .moc
-cd /home/cole/.config
-open_with unzip
-mkdir Reid Maynard
-mkdir Hitler's Birthday
-rename .Xresources.BAK
+rename .config
+rename .fehbg
+rename .gtkrc-2.0
+rename .i3status.conf
+rename .vimrc
 rename .Xresources
-cd .vim
+rename .zshrc
+openwith nautilus
 
-search vim
-mkdir Dotfiles
-rename dotfiles
-rename pkglist_local.txt
-rename pkglist_all.txt
-rename fehbg
-rename gtkrc-2.0
-rename vimrc
-rename i3status.conf
-rename Xresources
-rename zshrc
-cd .config/
+search feh
+cd .vim
+Q
 delete
-rename config
+find fe

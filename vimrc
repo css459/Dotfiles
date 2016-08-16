@@ -20,8 +20,8 @@ set cindent
 " GUI Options
 set guioptions-=L
 set guioptions-=r
-set guifont=Meslo\ LG\ M\ DZ\ for\ Powerline:h11
 set linespace=2
+"set guifont:Terminess\ Powerline:8
 
 " Remap <leader>
 let mapleader = "'"
@@ -57,6 +57,8 @@ Plugin 'scrooloose/nerdcommenter'
 Plugin 'chriskempson/base16-vim'
 Plugin 'fatih/vim-go'
 
+Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline-themes'
 if has("gui_running")
     Plugin 'vim-airline/vim-airline'
     Plugin 'vim-airline/vim-airline-themes'
@@ -67,10 +69,11 @@ filetype plugin indent on
 " End Vundle Plugins
 
 " Color Scheme
-set background=light
+let g:airline_theme='base16_ashes'
+set background=dark
 if has("gui_running")
     let base16colorspace=256
-    colorscheme base16-solarized-light
+    colorscheme base16-ashes
 endif
 
 " Powerline Config
