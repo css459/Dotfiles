@@ -1,0 +1,43 @@
+delte
+search rmsh
+rename scripts
+mkdir i3
+rename .fehbg
+rename .i3status.conf
+rename .Xresources
+cd /run/media/cole/ce2f4789-c0d5-4a12-9c75-9cc675614548/
+find vi
+find virtual
+rename fullbackup.bpac
+delete
+cd Trash/
+cd /var/
+cd /home/cole/.config/autostart
+cd .conh
+rename Emulation
+cd .emulation/
+cd /home/cole/.emulation/Library
+cd .vim/
+cd /home/cole/Downloads/
+search flat
+cd /home/cole/.IntelliJIdea2016.3/config/colors/
+cd /home/cole/.config
+cd .cache/
+cd .local
+cd .cache
+cd Downloads/
+open_wit
+cd openbox/
+rename menu.xml.BAK
+cd .themes/
+mkdir backpac
+cd .co
+cd .config/backpac
+cd /usr/share/pacman/
+cd 
+rename PKGBUILD
+cd .config/
+search Thun
+open_with vim
+cd .local/
+delete 

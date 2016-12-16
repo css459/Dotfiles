@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<application-state>
+  <context id="">
+    <application id="gnome-control-center.desktop" open-window-count="0" score="245" last-seen="1481511503"/>
+    <application id="geary.desktop" open-window-count="0" score="1112" last-seen="1481901285"/>
+    <application id="gnome-calculator.desktop" open-window-count="0" score="652" last-seen="1481306879"/>
+    <application id="gparted.desktop" open-window-count="0" score="8" last-seen="1481500448"/>
+    <application id="org.gnome.Nautilus.desktop" open-window-count="0" score="158" last-seen="1481899736"/>
+    <application id="redshift-gtk.desktop" open-window-count="0" score="3" last-seen="1481504323"/>
+    <application id="gnome-tweak-tool.desktop" open-window-count="0" score="231" last-seen="1481901312"/>
+    <application id="google-chrome.desktop" open-window-count="0" score="20353" last-seen="1481902065"/>
+    <application id="rhythmbox.desktop" open-window-count="0" score="92" last-seen="1481302986"/>
+    <application id="ca.desrt.dconf-editor.desktop" open-window-count="0" score="50" last-seen="1481501918"/>
+    <application id="gconf-editor.desktop" open-window-count="0" score="0" last-seen="1481899996"/>
+    <application id="gnome-shell-extension-prefs.desktop" open-window-count="0" score="12" last-seen="1481901311"/>
+    <application id="org.gnome.Terminal.desktop" open-window-count="1" score="5239" last-seen="1481902061"/>
+    <application id="gvim.desktop" open-window-count="0" score="214" last-seen="1481901968"/>
+  </context>
+</application-state>
